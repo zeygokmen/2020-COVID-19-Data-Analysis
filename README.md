@@ -6,10 +6,12 @@ This repository is created to the analysis and visualization of COVID-19 data fr
 [Covid19 Report](https://lookerstudio.google.com/s/rZAggHjSedM)
 
 <img src="COVID19-REPORT.png" width="600" height="400" />
+
 ## Data Sources
 The data used in this project is sourced from this sources:
 - [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 - [World Health Organization (WHO)](https://data.who.int/dashboards/covid19/cases)
+  
 ## Features
 ### Data Preprocessing
 - Data normalization and formatting
