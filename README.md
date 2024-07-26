@@ -4,8 +4,8 @@ COVID-19 Data Analysis: Analyzing and visualizing global COVID-19 data from 2020
 This repository is created to the analysis and visualization of COVID-19 data from the year 2020. The goal is to provide insights into the global spread and impact of the pandemic through data-driven analysis and visualizations.
 ## Link of the project
 [Covid19 Report](https://lookerstudio.google.com/s/rZAggHjSedM)
-<img src="COVID19-REPORT.png" width="10" height="5" />
-![Covid19 Report](https://github.com/zeygokmen/2020-COVID-19-Data-Analysis/blob/main/COVID19-REPORT.png)
+
+<img src="COVID19-REPORT.png" width="600" height="400" />
 ## Data Sources
 The data used in this project is sourced from this sources:
 - [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
